@@ -1,22 +1,22 @@
 name,latitude,longitude,population,color
 Gerente compras,377244,-122421,0.083884,#FF7F00
-Subgerente operaciones,377107,-1224372,0.058439,#FF7F00
-Jefe de bodega,378021,-1224369,0.40364,#FF7F00
-Jefe de abastecimiento,37793,-122416,0.33259,#FF7F00
-Category manager global,378045,-1224076,0.28784,#FF7F00
-Category manager,377924,-1224352,0.33382,#FF7F00
-Ingeniero compras,377868,-1224538,0.19965,#FF7F00
-Gerente de planta,378014,-1224182,0.34165,#377EB8
-Subgerente de producción,377144,-1224113,0.064774,#377EB8
-Subgerente de mantención,377423,-1224423,0.074148,#377EB8
-Superintendente de procesos,377378,-1224316,0.1226,#377EB8
-Superintendente de MMAA,377584,-1224654,0.18995,#377EB8
-Superintendente de SSO,377225,-1224885,0.092602,#377EB8
-Superintendente de CyH,377239,-1224439,0.10242,#377EB8
-Superintendente planta termica,377373,-1224589,0.12473,#377EB8
-Superintendente planta de efluentes,37.73,-1223855,0.10309,#377EB8
-Superintendente de fibra,377399,-1224169,0.20043,#377EB8
-Superintendente de licor,377624,-1224348,0.34092,#377EB8
-Superintendente de madera,377692,-1224463,0.29559,#377EB8
-Superintendente de maquina,377589,-1224153,0.42583,#377EB8
-Jefe de turno,377493,-122433,0.25158,#377EB8
+Subgerente operaciones,377107,-122421,0.058439,#FF7F00
+Jefe de bodega,378021,-122421,0.40364,#FF7F00
+Jefe de abastecimiento,37793,-122421,0.33259,#FF7F00
+Category manager global,378045,-122421,0.28784,#FF7F00
+Category manager,377924,-122421,0.33382,#FF7F00
+Ingeniero compras,377868,-122421,0.19965,#FF7F00
+Gerente de planta,378014,-122421,0.34165,#377EB8
+Subgerente de producción,377144,-122421,0.064774,#377EB8
+Subgerente de mantención,377423,-122421,0.074148,#377EB8
+Superintendente de procesos,377378,-122421,0.1226,#377EB8
+Superintendente de MMAA,377584,-122421,0.18995,#377EB8
+Superintendente de SSO,377225,-122421,0.092602,#377EB8
+Superintendente de CyH,377239,-122421,0.10242,#377EB8
+Superintendente planta termica,377373,-122421,0.12473,#377EB8
+Superintendente planta de efluentes,37.73,-122421,0.10309,#377EB8
+Superintendente de fibra,377399,-122421,0.20043,#377EB8
+Superintendente de licor,377624,-122421,0.34092,#377EB8
+Superintendente de madera,377692,-122421,0.29559,#377EB8
+Superintendente de maquina,377589,-122421,0.42583,#377EB8
+Jefe de turno,377493,-122421,0.25158,#377EB8
